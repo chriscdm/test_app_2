@@ -11,3 +11,4 @@ spec:
   type: other
   lifecycle: unknown
   owner: platform_2
+  system: examples
