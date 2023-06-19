@@ -8,7 +8,7 @@ metadata:
   tags:
     - python
 spec:
-  type: application
+  type: app
   lifecycle: unknown
   owner: platform_2
   system: examples
